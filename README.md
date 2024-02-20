@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, Welcome to My Profil, I'm Hicham Hmidani 😊</h1>
 <h3 align="center">A Junior in: Data Analytics & Data Science & Prompt Engineering</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7981C&background=2BFFC700&random=false&width=435&lines=%F0%9F%91%8B+Hello+There%2C+I'm+Hicham+%F0%9F%98%8A;%F0%9F%93%8A+Junior+Data+Analyst%2C;%F0%9F%94%8D+Junior+Data+Scientist%2C+%26;%F0%9F%92%BB+Junior+Prompt+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7981C&background=2BFFC700&random=false&width=435&lines=%F0%9F%91%8B+Hello+There%2C+I'm+Hicham+%F0%9F%98%8A;%F0%9F%93%8A+Junior+Data+Analyst%2C;%F0%9F%94%8D+Junior+Data+Scientist%2C+%26;%F0%9F%92%BB+Junior+in+Prompt+Engineering)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hicham-hmidani&label=Profile%20views&color=4946c8&style=flat" alt="hicham-hmidani" /> </p>
 
